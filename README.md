@@ -2,6 +2,9 @@
 
 I'm Precious. A software developer with passion for data science.
 
+[![Preshy Jones's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preshy-Jones)](https://github.com/Preshy-Jones/github-readme-stats)
+
+
 <!--
 **Preshy-Jones/Preshy-Jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
