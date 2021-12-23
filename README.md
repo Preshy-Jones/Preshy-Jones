@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Precious. A software develope.
+I'm Precious. A software developer.
 
 [![Preshy Jones's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preshy-Jones&show_icons=true&theme=cobalt)](https://github.com/Preshy-Jones/github-readme-stats)
 
