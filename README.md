@@ -9,7 +9,7 @@ My current stack includes:
 - Jest and Mocha - Unit and Integrations Testing.
 - Solidity, Ethersjs, Web3Js, Hardhat, Truffle etc. - Web3 Development
 
-- My [Resume](https://docs.google.com/document/d/1kzJ0crZBq4kBQ-KHL86XdDKdad_s7NQa/edit)
+- [My Resume](https://docs.google.com/document/d/1kzJ0crZBq4kBQ-KHL86XdDKdad_s7NQa/edit)
 - [My website](https://adedibuprecious.vercel.app/) 👨‍💻.
 
 [![Preshy Jones's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preshy-Jones&show_icons=true&theme=cobalt)](https://github.com/Preshy-Jones/github-readme-stats)
