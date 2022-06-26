@@ -12,9 +12,9 @@ My current stack includes:
 - [My Resume](https://docs.google.com/document/d/1kzJ0crZBq4kBQ-KHL86XdDKdad_s7NQa/edit)
 - [My website](https://adedibuprecious.vercel.app/) 👨‍
 
-<!--[![Preshy Jones's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preshy-Jones&show_icons=true&theme=cobalt)](https://github.com/Preshy-Jones/github-readme-stats)
+[![Preshy Jones's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preshy-Jones&show_icons=true&theme=cobalt)](https://github.com/Preshy-Jones/github-readme-stats)
 
-[![Preshy Jones' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PreshyJones)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Preshy Jones' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PreshyJones)](https://github.com/anuraghazra/github-readme-stats)
  -Jones/Preshy-Jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
