@@ -4,10 +4,10 @@ I'm Precious, a Full Stack Developer with over 3 years of working experience. I 
 performant applications. I always love learning new technolgies and this has helped me gain skills in a vast array of tech stacks. I'm currently learning and building things in the web3 space.
 
 📚 My current stack includes:
-React, NextJs, Tailwind, Material UI,Ant design, Chakra UI, Redux, Formik etc. - Frontend development.
-NodeJs, ExpressJs, Laravel, NESTJS, MongoDB, Mysql, Postgres, Redis etc - Backend Development
-Jest and Mocha - Unit and Integrations Testing.
-Solidity, Ethersjs, Web3Js, Hardhat, Truffle etc. - Web3 Development
+- React, NextJs, Tailwind, Material UI,Ant design, Chakra UI, Redux, Formik etc. - Frontend development.
+- NodeJs, ExpressJs, Laravel, NESTJS, MongoDB, Mysql, Postgres, Redis etc - Backend Development
+- Jest and Mocha - Unit and Integrations Testing.
+- Solidity, Ethersjs, Web3Js, Hardhat, Truffle etc. - Web3 Development
 
 - My [Resume](https://docs.google.com/document/d/1kzJ0crZBq4kBQ-KHL86XdDKdad_s7NQa/edit)
 - My website 👨‍💻.
