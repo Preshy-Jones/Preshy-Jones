@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Precious, a Full Stack Developer with over 3 years of working experience. I love to transform ideas into reality using code and building exquisite and 
-performant applications. I always love learning new technolgies and this has helped me gain skills in a vast array of tech stacks. I'm currently learning and building things in the web3 space.
+performant applications. I always love learning new technologies and this has helped me gain skills in a vast array of tech stacks. I'm currently learning and building things in the web3 space.
 
 My current stack includes:
 - React, NextJs, Tailwind, Material UI,Ant design, Chakra UI, Redux, Formik etc. - Frontend development.
