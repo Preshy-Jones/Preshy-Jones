@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Precious, a Full Stack Software Developer. I love to transform ideas into reality using code and building exquisite and 
+I'm Precious, a Full Stack Software Developer. I love to transform ideas into reality using code and building exquisite and highly
 performant applications. I always love learning new technologies and this has helped me gain skills in a vast array of tech stacks. I'm currently learning and building things in the web3 space.
 
 My current stack includes:
