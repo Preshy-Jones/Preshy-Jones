@@ -7,7 +7,7 @@ My current stack includes:
 - React, NextJs, Tailwind, Material UI, Chakra UI, Redux,Redux toolkit, GraphQl, Apollo client etc. - Frontend development.
 - NodeJs, ExpressJs, Laravel, Livewire, NESTJS, MongoDB, Mysql, Postgres, Redis etc - Backend Development
 <!-- - Jest and Mocha - Unit and Integrations Testing. -->
-- Solidity, Ethersjs, Web3Js, Hardhat etc. - Web3 Development
+<!-- Solidity, Ethersjs, Web3Js, Hardhat etc. - Web3 Development -->
 
 - [My Resume](https://docs.google.com/document/d/1kzJ0crZBq4kBQ-KHL86XdDKdad_s7NQa/edit)
 - [My website](https://adedibuprecious.vercel.app/) 👨‍
