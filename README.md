@@ -12,7 +12,7 @@ My current stack includes:
 - [My Resume](https://docs.google.com/document/d/1kzJ0crZBq4kBQ-KHL86XdDKdad_s7NQa/edit)
 - [My website](https://adedibuprecious.vercel.app/) 👨‍
 
-[![Preshy Jones's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preshy-Jones&show_icons=true&theme=cobalt)](https://github.com/Preshy-Jones/github-readme-stats)
+<!--[![Preshy Jones's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preshy-Jones&show_icons=true&theme=cobalt)](https://github.com/Preshy-Jones/github-readme-stats) -->
 
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
