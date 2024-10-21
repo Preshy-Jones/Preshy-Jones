@@ -4,8 +4,10 @@ I'm Precious, a Full Stack Software Developer. I love to transform ideas into re
 performant applications. I always love learning new technologies and this has helped me gain skills in a vast array of tech stacks. I'm currently learning and building things in the web3 space.
 
 My current stack includes:
+
+- NodeJs, ExpressJs,NESTJS, Laravel, Livewire,  MongoDB, Mysql, Postgres, Redis etc - Backend Development
+- AWS EC2, AWS S3, AWS rds, AWS Amplify, AWS lambda, AWS cognito, Docker, Teraform,
 - React, NextJs, Vue, Nuxt, Tailwind, Material UI, Chakra UI, Redux,Redux toolkit, GraphQl, Apollo client etc. - Frontend development.
-- NodeJs, ExpressJs, Laravel, Livewire, NESTJS, MongoDB, Mysql, Postgres, Redis etc - Backend Development
 <!-- - Jest and Mocha - Unit and Integrations Testing. -->
 <!-- Solidity, Ethersjs, Web3Js, Hardhat etc. - Web3 Development -->
 
