@@ -1,35 +1,11 @@
-### Hi there 👋
+### Precious Adedibu
 
-I'm Precious, a Full Stack Software Developer. I love to transform ideas into reality using code and building exquisite and highly
-performant applications. I always love learning new technologies and this has helped me gain skills in a vast array of tech stacks. I'm currently learning and building things in the web3 space.
+Senior Backend Engineer specializing in payment infrastructure and fintech platforms.
 
-My current stack includes:
+Currently building critical payment systems at **PalmPay** (10M+ users), previously architected crypto exchange and digital wallet backends at **SkyeWallet** ($3M+ transaction volume).
 
-- Java, Springboot NodeJs, ExpressJs,NESTJS, Laravel, Livewire,  MongoDB, Mysql, Postgres, Redis etc - Backend Development
-- AWS EC2, AWS S3, AWS rds, AWS Amplify, AWS lambda, AWS cognito, Docker, Teraform,
-- React, NextJs, Vue, Nuxt, Tailwind, Material UI, Chakra UI, Redux,Redux toolkit, GraphQl, Apollo client etc. - Frontend development.
-<!-- - Jest and Mocha - Unit and Integrations Testing. -->
-<!-- Solidity, Ethersjs, Web3Js, Hardhat etc. - Web3 Development -->
-
-- [My Resume](https://docs.google.com/document/d/1kzJ0crZBq4kBQ-KHL86XdDKdad_s7NQa/edit)
-- [My website](https://adedibuprecious.vercel.app/) 👨‍
-
-<!--[![Preshy Jones's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preshy-Jones&show_icons=true&theme=cobalt)](https://github.com/Preshy-Jones/github-readme-stats) -->
-
-
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
--->
-
-<!--Jones/Preshy-Jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work with:**
+- **Core:** Java, Spring Boot, Node.js, NestJS
+- **Data:** PostgreSQL, MySQL, Redis, Elasticsearch, Kafka
+- **Cloud:** AWS (EC2, S3, RDS, Lambda, Bedrock), Docker, Kubernetes
+- **Integrations:** Payment gateways, blockchain APIs, KYC providers, telecom APIs
